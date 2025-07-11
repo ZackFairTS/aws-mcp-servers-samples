@@ -1,9 +1,9 @@
 {
-  "domain": "${Token[TOKEN.645]}",
-  "endpoint": "${Token[TOKEN.637]}",
-  "username": "admin",
+  "domain": "${Token[TOKEN.644]}",
+  "endpoint": "${Token[TOKEN.636]}",
+  "username": "tang",
   "password": "******",
   "version": "2.19",
-  "region": "cn-northwest-1",
+  "region": "us-east-1",
   "accessType": "PUBLIC"
 }
